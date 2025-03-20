@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Chat App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How to Run
+
+1. **Start the Backend:**
+    - Navigate to the `backend` directory.
+    - Run the following command to start the backend server:
+    ```bash
+    python app.py
+    ```
+
+2. **Start the Frontend:**
+    - Ensure you are in the project root directory where `package.json` is located.
+    - Run the following command to start the React frontend:
+    ```bash
+    npm start
+    ```
+
+Make sure you have Python, Node.js, and npm installed before running these commands.
 
 ## Available Scripts
 
